@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/DepressiveThoughts1.unity
     guid: 7a47ce76e8887e841ab130254b2bc8cb
   - enabled: 1
+    path: Assets/Scenes/PhoneScene.unity
+    guid: d6f457006748646ebacedc0859e860ef
+  - enabled: 1
     path: Assets/Scenes/RoomScene.unity
     guid: 3959dd215a072364290465e8ce772300
   - enabled: 1
