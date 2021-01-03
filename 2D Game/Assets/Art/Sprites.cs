@@ -29,4 +29,9 @@ public class Sprites : MonoBehaviour
     {
 
     }
+
+    public void phone()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 }
